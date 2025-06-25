@@ -34,7 +34,7 @@ A full-stack food ordering system built using the MERN stack (MongoDB, Express, 
 ```bash
 cd server
 npm install
-npm start
+npm run start or npm run dev
 ```
 
 ### Client
