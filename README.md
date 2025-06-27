@@ -69,6 +69,12 @@ For support or inquiries, please contact the project maintainer at [].
 
 [Watch Video Demo](https://drive.google.com/file/d/1Pzd7rhkduz5SjWVPrQPSnnWgSMOMqmbD/view?usp=sharing) <!-- Replace with real video link if available -->
 
+## 📄 Document Template
+
+You can find the document templates for this project here:  
+[https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A](https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
