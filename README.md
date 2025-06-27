@@ -67,7 +67,7 @@ For support or inquiries, please contact the project maintainer at [].
 
 ## 📽 Demo
 
-[Watch Video Demo]([https://drive.google.com/file/d/1Pzd7rhkduz5SjWVPrQPSnnWgSMOMqmbD/view?usp=sharing]) <!-- Replace with real video link if available -->
+[Watch Video Demo](https://drive.google.com/file/d/1Pzd7rhkduz5SjWVPrQPSnnWgSMOMqmbD/view?usp=sharing) <!-- Replace with real video link if available -->
 
 # Getting Started with Create React App
 
