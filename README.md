@@ -69,7 +69,7 @@ For support or inquiries, please contact the project maintainer at [].
 
 [Watch Video Demo](https://drive.google.com/file/d/1Pzd7rhkduz5SjWVPrQPSnnWgSMOMqmbD/view?usp=sharing) <!-- Replace with real video link if available -->
 
-## 📄 Document Template
+## 📄 Document Drive
 
 You can find the document templates for this project here:  
 [https://drive.google.com/drive/folders/14FU4Dqr6vrpCYWex5WvJj3fJZkGlpOFW?usp=sharing](https://drive.google.com/drive/folders/14FU4Dqr6vrpCYWex5WvJj3fJZkGlpOFW?usp=sharing)
