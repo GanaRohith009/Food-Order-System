@@ -72,7 +72,7 @@ For support or inquiries, please contact the project maintainer at [].
 ## 📄 Document Template
 
 You can find the document templates for this project here:  
-[https://github.com/GanaRohith009/Food-Order-System/tree/main/Documents](https://github.com/GanaRohith009/Food-Order-System/tree/main/Documents)
+[https://drive.google.com/drive/folders/14FU4Dqr6vrpCYWex5WvJj3fJZkGlpOFW?usp=sharing](https://drive.google.com/drive/folders/14FU4Dqr6vrpCYWex5WvJj3fJZkGlpOFW?usp=sharing)
 
 
 # Getting Started with Create React App
